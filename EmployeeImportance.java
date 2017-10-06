@@ -47,6 +47,7 @@ public class EmployeeImportance
                 value+= e.importance;
             }
         }
+        System.out.println("edited");
         return value;
     }
     
